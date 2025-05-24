@@ -82,9 +82,7 @@ Dataset Source: [Kaggle - Titanic: Machine Learning from Disaster](https://www.k
 
 - **Name:** Akanksha Bhosle  
 - **Email:** *akanshabhosle31@gmail.com*  
-- **LinkedIn:** [linkedin.com/in/akanksha-bhosle](www.linkedin.com/in/akanksha-bhosle-0bb8422b4
-
-)
+- **LinkedIn:** [linkedin.com/in/akanksha-bhosle](www.linkedin.com/in/akanksha-bhosle-0bb8422b4)
 
 ---
 

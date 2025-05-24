@@ -74,14 +74,14 @@ Dataset Source: [Kaggle - Titanic: Machine Learning from Disaster](https://www.k
 ## 🔗 Project Links
 
 - 📓 [Google Colab Notebook](https://colab.research.google.com/drive/18wRhKed6_bZNq_1pKu20-3sLSikLKwdB)  
-- 💻 [GitHub Repository](https://lnkd.in/eScA8Bdp)
+- 💻 [GitHub Repository](https://github.com/akanksha21-maker/CREDORA-TASK-2)
 
 ---
 
 ## 📬 Contact
 
 - **Name:** Akanksha Bhosle  
-- **Email:** *youremail@example.com*  
+- **Email:** *akanshabhosle31@gmail.com*  
 - **LinkedIn:** [linkedin.com/in/akanksha-bhosle](www.linkedin.com/in/akanksha-bhosle-0bb8422b4
 
 )
